@@ -139,8 +139,11 @@ section{
 .community-section .left-side{
     margin-left:120px;
 }
+.portfolio-area{
+    padding:100px 0;
+}
 .portfolio-item{
-    width:30%;
+   
     margin:0 20px;
 }
 .portfolio-item img{
@@ -152,9 +155,7 @@ section{
     color:#3E3E3E;
     padding-bottom: 20px;
 }
-.portfolio-area{
-    padding:100px 0;
-}
+
 
 /* *****************************foooter ************************** */
 footer{
