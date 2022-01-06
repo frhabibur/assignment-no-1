@@ -131,3 +131,9 @@ section{
     margin:100px 0;
 }
 /* *********************END mission section********************************************* */
+.community-section .right-side{
+    margin-left: 0;
+}
+.community-section .left-side{
+    margin-left:120px;
+}
